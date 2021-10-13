@@ -1,0 +1,13 @@
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\bin\Debug\netcoreapp3.1\ClassUXL.exe
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\bin\Debug\netcoreapp3.1\ClassUXL.deps.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\bin\Debug\netcoreapp3.1\ClassUXL.runtimeconfig.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\bin\Debug\netcoreapp3.1\ClassUXL.runtimeconfig.dev.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\bin\Debug\netcoreapp3.1\ClassUXL.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\bin\Debug\netcoreapp3.1\ClassUXL.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\obj\Debug\netcoreapp3.1\ClassUXL.csproj.AssemblyReference.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\obj\Debug\netcoreapp3.1\ClassUXL.AssemblyInfoInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\obj\Debug\netcoreapp3.1\ClassUXL.AssemblyInfo.cs
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\obj\Debug\netcoreapp3.1\ClassUXL.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\obj\Debug\netcoreapp3.1\ClassUXL.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\obj\Debug\netcoreapp3.1\ClassUXL.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 3\ClassUXL\ClassUXL\obj\Debug\netcoreapp3.1\ClassUXL.genruntimeconfig.cache
